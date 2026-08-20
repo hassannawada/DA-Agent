@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+openpyxl
+plotly
+scikit-learn
+google-genai
+requests
+beautifulsoup4
+sqlalchemy
+mysql-connector-python
+python-dotenv
+reportlab
