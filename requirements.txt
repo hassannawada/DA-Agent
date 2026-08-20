@@ -11,3 +11,4 @@ sqlalchemy
 mysql-connector-python
 python-dotenv
 reportlab
+matplotlib
